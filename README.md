@@ -23,6 +23,7 @@ git clone https://github.com/TwojaNazwaUzytkownika/todo-app.git
 cd todo-app
 ```
 2. Otwórz plik index.html
+3. [Zobacz live](https://chorobcia09.github.io/to-do-app/)
 
 # EN
 
@@ -44,3 +45,4 @@ git clone https://github.com/TwojaNazwaUzytkownika/todo-app.git
 cd todo-app
 ```
 2. Open the index.html file in your browser.
+3. [Watch live](https://chorobcia09.github.io/to-do-app/)
