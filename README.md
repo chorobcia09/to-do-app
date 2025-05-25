@@ -6,7 +6,7 @@ Prosty projekt aplikacji "Lista Zadań" stworzony z użyciem HTML, CSS i JavaScr
 
 ---
 
-### 🔧 Funkcje
+### Funkcje
 
 - Dodawanie nowych zadań
 - Oznaczanie zadania jako ukończone (kliknięcie)
@@ -15,13 +15,32 @@ Prosty projekt aplikacji "Lista Zadań" stworzony z użyciem HTML, CSS i JavaScr
 
 ---
 
-### 🚀 Jak uruchomić?
+### Jak uruchomić?
 
 1. Pobierz repozytorium lub sklonuj je:
-   ```
-   git clone https://github.com/TwojaNazwaUzytkownika/todo-app.git
-   cd todo-app
-   ```
+```
+git clone https://github.com/TwojaNazwaUzytkownika/todo-app.git
+cd todo-app
+```
 2. Otwórz plik index.html
 
 # EN
+
+## To-Do List App
+A simple To-Do List web application built using HTML, CSS, and JavaScript. It allows you to add tasks, mark them as done, and delete them.
+
+### Features
+
+- Add new tasks
+- Mark tasks as completed (by clicking)
+- Delete tasks from the list
+- Clean and responsive design
+
+### How to run? 
+
+1. Clone or download the repository:
+```
+git clone https://github.com/TwojaNazwaUzytkownika/todo-app.git
+cd todo-app
+```
+2. Open the index.html file in your browser.
